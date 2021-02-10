@@ -10,10 +10,10 @@ namespace Business.Abstract
     public interface IProductService
     {
         IResult Add(Product product);
-        Product GetById(int id);
-        List<Product> GetAll();
-        List<Product> GetAllByCategoryId(int id);
-        List<Product> GetByUnitPrice(decimal mi, decimal max);
-        List<ProductDetailDto> GetProductDetails();
+        IDataResult<Product> GetById(int id);
+        IDataResult<List<Product>> GetAll();
+        IDataResult<List<Product>> GetAllByCategoryId(int id);
+        IDataResult<List<Product>> GetByUnitPrice(decimal mi, decimal max);
+        IDataResult<List<ProductDetailDto>> GetProductDetails();
     }
 }
