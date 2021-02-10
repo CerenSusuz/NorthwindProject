@@ -1,0 +1,9 @@
+C:\Users\CEREN\Desktop\kodlama.io\Proje\FinalProject\BaseCore\bin\Debug\netstandard2.0\BaseCore.deps.json
+C:\Users\CEREN\Desktop\kodlama.io\Proje\FinalProject\BaseCore\bin\Debug\netstandard2.0\BaseCore.dll
+C:\Users\CEREN\Desktop\kodlama.io\Proje\FinalProject\BaseCore\bin\Debug\netstandard2.0\BaseCore.pdb
+C:\Users\CEREN\Desktop\kodlama.io\Proje\FinalProject\BaseCore\obj\Debug\netstandard2.0\BaseCore.csprojAssemblyReference.cache
+C:\Users\CEREN\Desktop\kodlama.io\Proje\FinalProject\BaseCore\obj\Debug\netstandard2.0\BaseCore.AssemblyInfoInputs.cache
+C:\Users\CEREN\Desktop\kodlama.io\Proje\FinalProject\BaseCore\obj\Debug\netstandard2.0\BaseCore.AssemblyInfo.cs
+C:\Users\CEREN\Desktop\kodlama.io\Proje\FinalProject\BaseCore\obj\Debug\netstandard2.0\BaseCore.csproj.CoreCompileInputs.cache
+C:\Users\CEREN\Desktop\kodlama.io\Proje\FinalProject\BaseCore\obj\Debug\netstandard2.0\BaseCore.dll
+C:\Users\CEREN\Desktop\kodlama.io\Proje\FinalProject\BaseCore\obj\Debug\netstandard2.0\BaseCore.pdb
