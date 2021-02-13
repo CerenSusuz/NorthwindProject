@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8gBLClQrieEQjVmm1ZNnv+VBUFaU/QS7FJpgTYPxmsZH8OMlQptd8Gjj11XOzySdKJ+O3I5dk1c8PoW0VCcP4g==",
+  "dgSpecHash": "F9Kc7fGfhyeC2Mgr8hJFAiuEpWV//RUBfLkHM2PW+ecortCx+GtwAfQ43VcD9nKsY4SURwts/qeULYselQ2xaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CEREN\\Desktop\\NorthwindProject-main\\ConsoleUI\\ConsoleUI.csproj",
+  "projectFilePath": "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje\\NorthwindProject-main\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CEREN\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\CEREN\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

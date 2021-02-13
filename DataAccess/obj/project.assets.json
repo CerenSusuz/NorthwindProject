@@ -6243,11 +6243,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CEREN\\Desktop\\NorthwindProject-main\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje\\NorthwindProject-main\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\CEREN\\Desktop\\NorthwindProject-main\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje\\NorthwindProject-main\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\CEREN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CEREN\\Desktop\\NorthwindProject-main\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje\\NorthwindProject-main\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6264,11 +6264,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\CEREN\\Desktop\\NorthwindProject-main\\BaseCore\\Core.csproj": {
-              "projectPath": "C:\\Users\\CEREN\\Desktop\\NorthwindProject-main\\BaseCore\\Core.csproj"
+            "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje\\NorthwindProject-main\\BaseCore\\Core.csproj": {
+              "projectPath": "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje\\NorthwindProject-main\\BaseCore\\Core.csproj"
             },
-            "C:\\Users\\CEREN\\Desktop\\NorthwindProject-main\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\CEREN\\Desktop\\NorthwindProject-main\\Entities\\Entities.csproj"
+            "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje\\NorthwindProject-main\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje\\NorthwindProject-main\\Entities\\Entities.csproj"
             }
           }
         }

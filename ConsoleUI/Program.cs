@@ -16,12 +16,12 @@ namespace ConsoleUI
         private static void CategoryTest()
         {
             CategoryManager categoryManager = new CategoryManager(new EFCategoryDAL());
-            foreach (var category in categoryManager.GetAll())
+            var result = categoryManager.GetAll();
+            foreach (var category in result.Data)
             {
                 Console.WriteLine(category.CategoryName);
             }
         }
-
         private static void ProductTest()
         {
             ProductManager productManager = new ProductManager(new EFProductDAL());

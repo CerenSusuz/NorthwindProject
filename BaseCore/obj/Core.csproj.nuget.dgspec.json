@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CEREN\\Desktop\\NorthwindProject-main\\BaseCore\\Core.csproj": {}
+    "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje\\NorthwindProject-main\\BaseCore\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CEREN\\Desktop\\NorthwindProject-main\\BaseCore\\Core.csproj": {
+    "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje\\NorthwindProject-main\\BaseCore\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CEREN\\Desktop\\NorthwindProject-main\\BaseCore\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje\\NorthwindProject-main\\BaseCore\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\CEREN\\Desktop\\NorthwindProject-main\\BaseCore\\Core.csproj",
+        "projectPath": "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje\\NorthwindProject-main\\BaseCore\\Core.csproj",
         "packagesPath": "C:\\Users\\CEREN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CEREN\\Desktop\\NorthwindProject-main\\BaseCore\\obj\\",
+        "outputPath": "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje\\NorthwindProject-main\\BaseCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",

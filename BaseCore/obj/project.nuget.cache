@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wWnBSXeMhLswEr15tnLqv3B9Y1RqM2nbmy69WhH2fwiP5eKOkOXs5K/hkWsmhFpcun53NUnLUMjyEa32Bb1seQ==",
+  "dgSpecHash": "sl2VLfcG69wWZaeJyO8PVwUIRL0IOWfAHrb0dpIcCB7YyFGQXkhZmCe1B55caBaHc12hioU/qBnL4Vy+jld5eg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CEREN\\Desktop\\NorthwindProject-main\\BaseCore\\Core.csproj",
+  "projectFilePath": "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje\\NorthwindProject-main\\BaseCore\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CEREN\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\CEREN\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
