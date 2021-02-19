@@ -66,3 +66,8 @@ C:\Users\CEREN\Desktop\kodlama.io\Proje\NorthwindProject-main\WebAPI\bin\Debug\n
 C:\Users\CEREN\Desktop\kodlama.io\Proje\NorthwindProject-main\WebAPI\bin\Debug\netcoreapp3.1\Entities.pdb
 C:\Users\CEREN\Desktop\kodlama.io\Proje\NorthwindProject-main\WebAPI\bin\Debug\netcoreapp3.1\Core.pdb
 C:\Users\CEREN\Desktop\kodlama.io\Proje\NorthwindProject-main\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\Users\CEREN\Desktop\kodlama.io\Proje\NorthwindProject-main\WebAPI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\CEREN\Desktop\kodlama.io\Proje\NorthwindProject-main\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\CEREN\Desktop\kodlama.io\Proje\NorthwindProject-main\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\CEREN\Desktop\kodlama.io\Proje\NorthwindProject-main\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\CEREN\Desktop\kodlama.io\Proje\NorthwindProject-main\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
