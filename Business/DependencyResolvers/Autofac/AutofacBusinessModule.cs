@@ -28,6 +28,8 @@ namespace Business.DependencyResolvers.Autofac
             builder.RegisterType<OrderManager>().As<IOrderService>().SingleInstance();
             builder.RegisterType<EFOrderDAL>().As<IOrderDAL>().SingleInstance();
 
+
+
             var assembly = System.Reflection.Assembly.GetExecutingAssembly();
 
             builder.RegisterAssemblyTypes(assembly).AsImplementedInterfaces()
