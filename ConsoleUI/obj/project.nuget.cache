@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sMm/gZO0BFlyFg4dWTtAIrqUMIR6ADYdegJ9A70++6eVXzeU6tG/Rbk5ZU9ztBS1JKH2GNbqXdRXmYqK1Kmafw==",
+  "dgSpecHash": "NW0Ft65pvsLdUzarK/44KOeEB8fmwXBam8Hd0ULrHBZJW7gtNae8gv1BRfTr7Ta0zKMHKlbl+qtIsOiul+C0gA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje\\NorthwindProject-main\\ConsoleUI\\ConsoleUI.csproj",
+  "projectFilePath": "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje2\\NorthwindProject-main\\ConsoleUI\\ConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CEREN\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\CEREN\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K735I4xdmHDTGp5+wumUCM6RxFHSXeKbSqwfNDG9aDgJw1FQYZY+kAdwWbCr0V6O0YzX4iaNddvwd8MuAEF8cg==",
+  "dgSpecHash": "G/ZFrDS4FUckWwKzPmz8WsLTM1zHETzJXOCdc3LO8tkGdRmYrLA49nhioIhSW8uOBHg1FevYgGV5pdkC10pJAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje\\NorthwindProject-main\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje2\\NorthwindProject-main\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CEREN\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\CEREN\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

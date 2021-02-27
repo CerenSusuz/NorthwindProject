@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "trHsqhUahQ7qOIP+amvdQjsUoFSjWHMFb7pg99MWL0Gnw8e272xwPJ/hpK+ajlYv72m5IlNSZ3Wn/yJm03ciqQ==",
+  "dgSpecHash": "UKlZOXPX2nGh5RB4osp0mwLLh4vH0HmlRfL+0NIeA302flo6JXHwniWxaQ22KMWKn0i2VQhBOHggzqHcek0Hrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje\\NorthwindProject-main\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje2\\NorthwindProject-main\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CEREN\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\CEREN\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
