@@ -6857,11 +6857,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje2\\NorthwindProject-main\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\CEREN\\Desktop\\WEB\\kodlama.io\\Proje2\\NorthwindProject-main\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje2\\NorthwindProject-main\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\CEREN\\Desktop\\WEB\\kodlama.io\\Proje2\\NorthwindProject-main\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\CEREN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje2\\NorthwindProject-main\\Business\\obj\\",
+      "outputPath": "C:\\Users\\CEREN\\Desktop\\WEB\\kodlama.io\\Proje2\\NorthwindProject-main\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6878,8 +6878,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje2\\NorthwindProject-main\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje2\\NorthwindProject-main\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\CEREN\\Desktop\\WEB\\kodlama.io\\Proje2\\NorthwindProject-main\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\CEREN\\Desktop\\WEB\\kodlama.io\\Proje2\\NorthwindProject-main\\DataAccess\\DataAccess.csproj"
             }
           }
         }

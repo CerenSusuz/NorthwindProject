@@ -6644,11 +6644,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje2\\NorthwindProject-main\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\CEREN\\Desktop\\WEB\\kodlama.io\\Proje2\\NorthwindProject-main\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje2\\NorthwindProject-main\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\CEREN\\Desktop\\WEB\\kodlama.io\\Proje2\\NorthwindProject-main\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\CEREN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje2\\NorthwindProject-main\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\CEREN\\Desktop\\WEB\\kodlama.io\\Proje2\\NorthwindProject-main\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6665,11 +6665,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje2\\NorthwindProject-main\\BaseCore\\Core.csproj": {
-              "projectPath": "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje2\\NorthwindProject-main\\BaseCore\\Core.csproj"
+            "C:\\Users\\CEREN\\Desktop\\WEB\\kodlama.io\\Proje2\\NorthwindProject-main\\BaseCore\\Core.csproj": {
+              "projectPath": "C:\\Users\\CEREN\\Desktop\\WEB\\kodlama.io\\Proje2\\NorthwindProject-main\\BaseCore\\Core.csproj"
             },
-            "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje2\\NorthwindProject-main\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\CEREN\\Desktop\\kodlama.io\\Proje2\\NorthwindProject-main\\Entities\\Entities.csproj"
+            "C:\\Users\\CEREN\\Desktop\\WEB\\kodlama.io\\Proje2\\NorthwindProject-main\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\CEREN\\Desktop\\WEB\\kodlama.io\\Proje2\\NorthwindProject-main\\Entities\\Entities.csproj"
             }
           }
         }
