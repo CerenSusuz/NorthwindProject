@@ -1,4 +1,5 @@
 ﻿using Business.Abstract;
+using Business.BusinessAspect.Autofac;
 using Business.Constants;
 using Business.ValidationRules.FluentValidation;
 using Core.Aspects.Autofac.Validation;
@@ -18,6 +19,7 @@ namespace Business.Concrete
         {
             _categoryDAL = categoryDAL;       
         }
+        [SecuredOperation("category.add,admin")]
         [ValidationAspect(typeof(CategoryValidator))]
         public IResult Add(Category category)
         {
@@ -28,11 +30,15 @@ namespace Business.Concrete
             _categoryDAL.Add(category);
             return new SuccessResult(Messages.Added);
         }
+
+        [SecuredOperation("category.delete,admin")]
         public IResult Delete(Category category)
         {
             _categoryDAL.Delete(category);
             return new SuccessResult(Messages.Deleted);
         }
+
+        [SecuredOperation("category.update,admin")]
         public IResult Update(Category category)
         {
             _categoryDAL.Update(category);

@@ -43,11 +43,16 @@ namespace Business.Concrete
             _productDAL.Add(product);
             return new SuccessResult(Messages.Added);
         }
+
+        [SecuredOperation("product.delete,admin")]
         public IResult Delete(Product product)
         {
             _productDAL.Delete(product);
             return new SuccessResult(Messages.Deleted);
         }
+
+        [SecuredOperation("product.update,admin")]
+        [ValidationAspect(typeof(ProductValidator))]
         public IResult Update(Product product)
         {
             _productDAL.Update(product);
