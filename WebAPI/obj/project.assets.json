@@ -6233,19 +6233,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\CEREN\\.nuget\\packages\\": {}
+    "C:\\Users\\Ceren\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CEREN\\Desktop\\WEB\\kodlama.io\\Proje2\\NorthwindProject-main\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\CEREN\\Desktop\\WEB\\kodlama.io\\Proje2\\NorthwindProject-main\\WebAPI\\WebAPI.csproj",
-      "packagesPath": "C:\\Users\\CEREN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CEREN\\Desktop\\WEB\\kodlama.io\\Proje2\\NorthwindProject-main\\WebAPI\\obj\\",
+      "projectPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\WebAPI\\WebAPI.csproj",
+      "packagesPath": "C:\\Users\\Ceren\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\CEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ceren\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6259,14 +6259,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\CEREN\\Desktop\\WEB\\kodlama.io\\Proje2\\NorthwindProject-main\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\CEREN\\Desktop\\WEB\\kodlama.io\\Proje2\\NorthwindProject-main\\Business\\Business.csproj"
+            "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\Business\\Business.csproj"
             },
-            "C:\\Users\\CEREN\\Desktop\\WEB\\kodlama.io\\Proje2\\NorthwindProject-main\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\CEREN\\Desktop\\WEB\\kodlama.io\\Proje2\\NorthwindProject-main\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\CEREN\\Desktop\\WEB\\kodlama.io\\Proje2\\NorthwindProject-main\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\CEREN\\Desktop\\WEB\\kodlama.io\\Proje2\\NorthwindProject-main\\Entities\\Entities.csproj"
+            "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\Entities\\Entities.csproj"
             }
           }
         }
@@ -6308,7 +6308,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
