@@ -219,3 +219,10 @@ C:\Users\CEREN\Desktop\WEB\kodlama.io\Proje2\NorthwindProject-main\WebAPI\obj\De
 C:\Users\CEREN\Desktop\WEB\kodlama.io\Proje2\NorthwindProject-main\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
 C:\Users\CEREN\Desktop\WEB\kodlama.io\Proje2\NorthwindProject-main\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
 C:\Users\CEREN\Desktop\WEB\kodlama.io\Proje2\NorthwindProject-main\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
+C:\Users\Ceren\Desktop\CerenSusuz\NorthwindProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
+C:\Users\Ceren\Desktop\CerenSusuz\NorthwindProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Ceren\Desktop\CerenSusuz\NorthwindProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.AssemblyInfo.cs
+C:\Users\Ceren\Desktop\CerenSusuz\NorthwindProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ceren\Desktop\CerenSusuz\NorthwindProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ceren\Desktop\CerenSusuz\NorthwindProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
+C:\Users\Ceren\Desktop\CerenSusuz\NorthwindProject\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb

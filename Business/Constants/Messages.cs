@@ -19,10 +19,10 @@ namespace Business.Constants
         public static string CategoryLimitExceded = "Category Limit Exceded so New Product Added process NOT working!";
         public static string UserNotFound = "User not found";
         public static string PasswordError = "PasswordError";
-        public static string SuccessfulLogin = "SuccessfulLogin";
         public static string UserAlreadyExists = "UserAlreadyExists";
         public static string UserRegistered = "SuccessUserRegistered";
         public static string AccessTokenCreated = "Access token başarıyla oluşturuldu";
         public static string AuthorizationDenied = "AuthorizationDenied";
+        public static string SuccessfullLogin = "SuccessfullLogin";
     }
 }

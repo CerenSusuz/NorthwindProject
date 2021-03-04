@@ -78,3 +78,9 @@ C:\Users\CEREN\Desktop\WEB\kodlama.io\Proje2\NorthwindProject-main\Business\obj\
 C:\Users\CEREN\Desktop\WEB\kodlama.io\Proje2\NorthwindProject-main\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 C:\Users\CEREN\Desktop\WEB\kodlama.io\Proje2\NorthwindProject-main\Business\obj\Debug\netstandard2.0\Business.dll
 C:\Users\CEREN\Desktop\WEB\kodlama.io\Proje2\NorthwindProject-main\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\Users\Ceren\Desktop\CerenSusuz\NorthwindProject\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\Users\Ceren\Desktop\CerenSusuz\NorthwindProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\Ceren\Desktop\CerenSusuz\NorthwindProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\Ceren\Desktop\CerenSusuz\NorthwindProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Ceren\Desktop\CerenSusuz\NorthwindProject\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\Ceren\Desktop\CerenSusuz\NorthwindProject\Business\obj\Debug\netstandard2.0\Business.pdb
