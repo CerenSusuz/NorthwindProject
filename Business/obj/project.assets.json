@@ -1918,6 +1918,7 @@
           "Autofac.Extensions.DependencyInjection": "7.1.0",
           "Autofac.Extras.DynamicProxy": "6.0.0",
           "FluentValidation": "9.5.1",
+          "Microsoft.AspNetCore.Http": "2.2.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.11",
           "Microsoft.Extensions.Configuration": "5.0.0",
           "Microsoft.IdentityModel.Logging": "6.8.0",
@@ -6857,11 +6858,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\Ceren\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\Business\\obj\\",
+      "outputPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ceren\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6878,8 +6879,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\DataAccess\\DataAccess.csproj"
             }
           }
         }

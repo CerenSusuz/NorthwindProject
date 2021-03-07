@@ -70,3 +70,15 @@ C:\Users\Ceren\Desktop\CerenSusuz\NorthwindProject\Entities\obj\Debug\netstandar
 C:\Users\Ceren\Desktop\CerenSusuz\NorthwindProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
 C:\Users\Ceren\Desktop\CerenSusuz\NorthwindProject\Entities\obj\Debug\netstandard2.0\Entities.dll
 C:\Users\Ceren\Desktop\CerenSusuz\NorthwindProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\Ceren\Desktop\NorthwindProject\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\Ceren\Desktop\NorthwindProject\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Ceren\Desktop\NorthwindProject\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Ceren\Desktop\NorthwindProject\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Ceren\Desktop\NorthwindProject\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Ceren\Desktop\NorthwindProject\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\Ceren\Desktop\NorthwindProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Ceren\Desktop\NorthwindProject\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\Ceren\Desktop\NorthwindProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ceren\Desktop\NorthwindProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\Users\Ceren\Desktop\NorthwindProject\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\Ceren\Desktop\NorthwindProject\Entities\obj\Debug\netstandard2.0\Entities.pdb

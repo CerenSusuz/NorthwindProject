@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\ConsoleUI\\ConsoleUI.csproj": {}
+    "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\ConsoleUI\\ConsoleUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\BaseCore\\Core.csproj": {
+    "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\BaseCore\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\BaseCore\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\BaseCore\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\BaseCore\\Core.csproj",
+        "projectPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\BaseCore\\Core.csproj",
         "packagesPath": "C:\\Users\\Ceren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\BaseCore\\obj\\",
+        "outputPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\BaseCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ceren\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,6 +56,10 @@
               "target": "Package",
               "version": "[9.5.1, )"
             },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.11, )"
@@ -97,14 +101,14 @@
         }
       }
     },
-    "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\Business\\Business.csproj": {
+    "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\Ceren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\Business\\obj\\",
+        "outputPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ceren\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -121,8 +125,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -186,14 +190,14 @@
         }
       }
     },
-    "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\ConsoleUI\\ConsoleUI.csproj": {
+    "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\ConsoleUI\\ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\ConsoleUI\\ConsoleUI.csproj",
+        "projectUniqueName": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\ConsoleUI\\ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\ConsoleUI\\ConsoleUI.csproj",
+        "projectPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\ConsoleUI\\ConsoleUI.csproj",
         "packagesPath": "C:\\Users\\Ceren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\ConsoleUI\\obj\\",
+        "outputPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\ConsoleUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ceren\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -210,14 +214,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\Business\\Business.csproj"
+              "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\Business\\Business.csproj"
               },
-              "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\Entities\\Entities.csproj"
+              "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -250,14 +254,14 @@
         }
       }
     },
-    "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Ceren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ceren\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -274,11 +278,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\BaseCore\\Core.csproj": {
-                "projectPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\BaseCore\\Core.csproj"
+              "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\BaseCore\\Core.csproj": {
+                "projectPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\BaseCore\\Core.csproj"
               },
-              "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\Entities\\Entities.csproj"
+              "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -318,14 +322,14 @@
         }
       }
     },
-    "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Ceren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ceren\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -342,8 +346,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\BaseCore\\Core.csproj": {
-                "projectPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\BaseCore\\Core.csproj"
+              "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\BaseCore\\Core.csproj": {
+                "projectPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\BaseCore\\Core.csproj"
               }
             }
           }

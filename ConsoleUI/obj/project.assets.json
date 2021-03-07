@@ -1684,6 +1684,7 @@
           "Autofac.Extensions.DependencyInjection": "7.1.0",
           "Autofac.Extras.DynamicProxy": "6.0.0",
           "FluentValidation": "9.5.1",
+          "Microsoft.AspNetCore.Http": "2.2.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.11",
           "Microsoft.Extensions.Configuration": "5.0.0",
           "Microsoft.IdentityModel.Logging": "6.8.0",
@@ -6206,11 +6207,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\Ceren\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ceren\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6227,14 +6228,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\Business\\Business.csproj"
+            "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\Business\\Business.csproj"
             },
-            "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\Entities\\Entities.csproj"
+            "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\Entities\\Entities.csproj"
             }
           }
         }

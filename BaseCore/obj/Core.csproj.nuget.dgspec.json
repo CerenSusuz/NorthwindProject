@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\BaseCore\\Core.csproj": {}
+    "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\BaseCore\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\BaseCore\\Core.csproj": {
+    "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\BaseCore\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\BaseCore\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\BaseCore\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\BaseCore\\Core.csproj",
+        "projectPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\BaseCore\\Core.csproj",
         "packagesPath": "C:\\Users\\Ceren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ceren\\Desktop\\CerenSusuz\\NorthwindProject\\BaseCore\\obj\\",
+        "outputPath": "C:\\Users\\Ceren\\Desktop\\NorthwindProject\\BaseCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ceren\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,6 +55,10 @@
             "FluentValidation": {
               "target": "Package",
               "version": "[9.5.1, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
