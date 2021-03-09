@@ -31,7 +31,7 @@ namespace Business.Concrete
                 return new ErrorResult(Messages.NameInvalid);
             }
             _categoryDAL.Add(category);
-            return new SuccessResult(Messages.Added);
+            return new SuccessResult();
         }
 
         [SecuredOperation("category.delete,admin")]
@@ -39,7 +39,7 @@ namespace Business.Concrete
         public IResult Delete(Category category)
         {
             _categoryDAL.Delete(category);
-            return new SuccessResult(Messages.Deleted);
+            return new SuccessResult();
         }
 
         [SecuredOperation("category.update,admin")]
@@ -47,7 +47,7 @@ namespace Business.Concrete
         public IResult Update(Category category)
         {
             _categoryDAL.Update(category);
-            return new SuccessResult(Messages.Updated);
+            return new SuccessResult();
         }
 
         [CacheAspect]
@@ -59,7 +59,7 @@ namespace Business.Concrete
         [CacheAspect]
         public IDataResult<List<Category>> GetAll()
         {
-            return new SuccessDataResult<List<Category>>(_categoryDAL.GetAll(),Messages.Listed);
+            return new SuccessDataResult<List<Category>>(_categoryDAL.GetAll());
         }
     }
 }

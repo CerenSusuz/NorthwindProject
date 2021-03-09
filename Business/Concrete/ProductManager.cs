@@ -46,7 +46,7 @@ namespace Business.Concrete
             }
 
             _productDAL.Add(product);
-            return new SuccessResult(Messages.Added);
+            return new SuccessResult();
         }
 
         [CacheRemoveAspect("IProductService.Get")]
@@ -54,7 +54,7 @@ namespace Business.Concrete
         public IResult Delete(Product product)
         {
             _productDAL.Delete(product);
-            return new SuccessResult(Messages.Deleted);
+            return new SuccessResult();
         }
 
         [SecuredOperation("product.update,admin")]
@@ -63,13 +63,13 @@ namespace Business.Concrete
         public IResult Update(Product product)
         {
             _productDAL.Update(product);
-            return new SuccessResult(Messages.Updated);
+            return new SuccessResult();
         }
 
         [CacheAspect]
         public IDataResult<List<Product>> GetAll()
         {
-            return new SuccessDataResult<List<Product>>(_productDAL.GetAll(), Messages.Listed);
+            return new SuccessDataResult<List<Product>>(_productDAL.GetAll());
         }
 
         [CacheAspect]
@@ -138,7 +138,7 @@ namespace Business.Concrete
 
             if (product.UnitPrice < 15)
             {
-                throw new Exception("errorerroe");
+                throw new Exception("errorerroer");
             }
 
             Add(product);

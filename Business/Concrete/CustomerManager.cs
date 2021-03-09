@@ -22,21 +22,21 @@ namespace Business.Concrete
         public IResult Add(Customer customer)
         {
             _customerDAL.Add(customer);
-            return new SuccessResult(Messages.Added);
+            return new SuccessResult();
         }
 
         [CacheRemoveAspect("ICustomerService.Get")]
         public IResult Delete(Customer customer)
         {
             _customerDAL.Delete(customer);
-            return new SuccessResult(Messages.Deleted);
+            return new SuccessResult();
         }
 
         [CacheRemoveAspect("ICustomerService.Get")]
         public IResult Update(Customer customer)
         {
             _customerDAL.Update(customer);
-            return new SuccessResult(Messages.Updated);
+            return new SuccessResult();
         }
 
         [CacheAspect]
@@ -48,7 +48,7 @@ namespace Business.Concrete
         [CacheAspect]
         public IDataResult<List<Customer>> GetAll()
         {
-            return new SuccessDataResult<List<Customer>>(_customerDAL.GetAll(), Messages.Listed);
+            return new SuccessDataResult<List<Customer>>(_customerDAL.GetAll());
         }
     }
 }

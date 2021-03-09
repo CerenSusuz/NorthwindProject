@@ -25,21 +25,21 @@ namespace Business.Concrete
         public IResult Add(Order Order)
         {
             _orderDAL.Add(Order);
-            return new SuccessResult(Messages.Added);
+            return new SuccessResult();
         }
 
         [CacheRemoveAspect("IOrderService.Get")]
         public IResult Delete(Order Order)
         {
             _orderDAL.Delete(Order);
-            return new SuccessResult(Messages.Deleted);
+            return new SuccessResult();
         }
 
         [CacheRemoveAspect("IOrderService.Get")]
         public IResult Update(Order Order)
         {
             _orderDAL.Update(Order);
-            return new SuccessResult(Messages.Updated);
+            return new SuccessResult();
         }
 
         [CacheAspect]
@@ -51,7 +51,7 @@ namespace Business.Concrete
         [CacheAspect]
         public IDataResult<List<Order>> GetAll()
         {
-            return new SuccessDataResult<List<Order>>(_orderDAL.GetAll(), Messages.Listed);
+            return new SuccessDataResult<List<Order>>(_orderDAL.GetAll());
         }
     }
 }
