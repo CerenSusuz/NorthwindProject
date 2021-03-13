@@ -78,10 +78,10 @@ namespace WebAPI.Controllers
             return BadRequest(result);
         }
 
-        [HttpGet("getallbycategoryid")]
-        public IActionResult GetAllByCategoryId(int id)
+        [HttpGet("getbycategory")]
+        public IActionResult GetAllByCategoryId(int categoryid)
         {
-            var result = _productService.GetAllByCategoryId(id);
+            var result = _productService.GetAllByCategoryId(categoryid);
             if (result.Success)
             {
                 return Ok(result);
@@ -110,6 +110,6 @@ namespace WebAPI.Controllers
             }
             return BadRequest(result);
         }
-        
+
     }
 }
