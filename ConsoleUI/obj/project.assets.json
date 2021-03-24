@@ -1689,6 +1689,7 @@
           "Microsoft.Extensions.Configuration": "5.0.0",
           "Microsoft.IdentityModel.Logging": "6.8.0",
           "Microsoft.IdentityModel.Tokens": "6.8.0",
+          "Newtonsoft.Json": "10.0.1",
           "System.IdentityModel.Tokens.Jwt": "6.8.0"
         },
         "compile": {
