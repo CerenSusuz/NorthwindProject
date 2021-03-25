@@ -20,7 +20,7 @@ Northwind is an e-commerce site with a secure system where you can apply CRUD tr
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](license-url) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/CerenSusuz/NorthwindProject/blob/main/LICENSE) file for details
 
 ## 📫 How to Reach Me
 
