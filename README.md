@@ -5,7 +5,7 @@ Integrated Development Environment : Visual Studio 2019
 
 ## About The Project
 
-Northwind is an e-commerce site with a secure system where you can apply CRUD transactions within your authority to your models prepared using the Northwind database with the C# programming language under the name asp net core platform, and your information is kept confidential during the process you register to the site.There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.t.
+Northwind is an e-commerce site with a secure system where you can apply CRUD transactions within your authority to your models prepared using the Northwind database with the C# programming language under the name ASP Net Core platform, and your information is kept confidential during the process you register to the site.
 
   <a href="https://visualstudio.microsoft.com/tr/downloads/">
     <img src="images/logo.jpg" alt="Logo" width="80" height="80">
