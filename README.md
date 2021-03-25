@@ -8,7 +8,7 @@ Integrated Development Environment : Visual Studio 2019
 Northwind is an e-commerce site with a secure system where you can apply CRUD transactions within your authority to your models prepared using the Northwind database with the C# programming language under the name ASP Net Core platform, and your information is kept confidential during the process you register to the site.
 
   <a href="https://visualstudio.microsoft.com/tr/downloads/">
-    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
+    <img src="images/VisualStudioLogo.png" alt="Logo" width="80" height="80">
   </a>
 
 ## Built With
@@ -17,13 +17,16 @@ Northwind is an e-commerce site with a secure system where you can apply CRUD tr
 * [ASP.NET](https://www.w3schools.com/asp/webpages_intro.asp) - Web Development Platform
 * [.NET CORE](https://dotnet.microsoft.com/download) - . Net Core is an open source cross-platform development platform on Github that has been developed and continues to be developed by Microsoft and the .NET community. .NET Core supports Windows, macOS and Linux thanks to its cross-development feature. It can also be used in the creation of cloud and IoT applications.
 * [SQL SERVER](https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads) - It is an enterprise-wide relational database management system that allows data to be stored safely and in integrity and accessed by multiple users at the same time.
+* [Entity Framework](https://www.entityframeworktutorial.net/)
+* (Enterprise) Software Layer Architectures
+* [AOP(Aspect Oriented Programming)](https://docs.microsoft.com/en-us/archive/msdn-magazine/2014/february/aspect-oriented-programming-aspect-oriented-programming-with-the-realproxy-class)
+* [JWT(JSON Web Tokens)](https://jwt.io/)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/CerenSusuz/NorthwindProject/blob/main/LICENSE) file for details
 
 ## 📫 How to Reach Me
 
 [![Linkedin Badge](https://img.shields.io/badge/cerensusuz-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ceren-s-2a70841b3/)
-
 
