@@ -3,9 +3,9 @@
 
 Integrated Development Environment : Visual Studio 2019 
 
-<img src="images/homepage.png" alt="Logo" width="300" height="300">
+<img src="images/homepage.png" alt="Logo" width="350" height="300">
 
-<img src="images/login.png" alt="Logo" width="300" height="300">
+<img src="images/login.png" alt="Logo" width="350" height="300">
 ## About The Project
 
 Northwind is an e-commerce site with a secure system where you can apply CRUD transactions within your authority to your models prepared using the Northwind database with the C# programming language under the name ASP Net Core platform, and your information is kept confidential during the process you register to the site.
